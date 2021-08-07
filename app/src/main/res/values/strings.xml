@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Covid-19 Tracker</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/poppins_bold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/poppins_light</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/poppins_regular</string>
+</resources>
